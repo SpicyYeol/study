@@ -8,3 +8,4 @@ deep learning resources
 6. Identity Mappings in Deep Residual Networks // https://kangbk0120.github.io/articles/2018-01/identity-mapping-in-deep-resnet
 7. R-CNNs Tutorial // https://blog.lunit.io/2017/06/01/r-cnns-tutorial/
 8. Google inception Model // https://norman3.github.io/papers/docs/google_inception.html
+9. Receptive field //http://iamyoonkim.tistory.com/16
