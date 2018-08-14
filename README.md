@@ -9,3 +9,4 @@ deep learning resources
 7. R-CNNs Tutorial // https://blog.lunit.io/2017/06/01/r-cnns-tutorial/
 8. Google inception Model // https://norman3.github.io/papers/docs/google_inception.html
 9. Receptive field //http://iamyoonkim.tistory.com/16
+10. What do we learn from single shot object detectors (SSD, YOLOv3), FPN & Focal loss (RetinaNet)? // https://medium.com/@jonathan_hui/what-do-we-learn-from-single-shot-object-detectors-ssd-yolo-fpn-focal-loss-3888677c5f4d
